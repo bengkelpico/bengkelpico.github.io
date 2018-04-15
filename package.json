@@ -18,8 +18,9 @@
     "@nuxtjs/axios": "^5.0.0"
   },
   "devDependencies": {
-    "cross-env": "^5.0.1",
+    "@nuxtjs/pwa": "^2.0.8",
     "babel-eslint": "^8.2.1",
+    "cross-env": "^5.0.1",
     "eslint": "^4.15.0",
     "eslint-loader": "^2.0.0",
     "eslint-plugin-vue": "^4.0.0",
